@@ -1,5 +1,5 @@
 ## Hi there 👋
-This space for development microbit coding project.
+This space for microbit coding project (Edu Project for Kids )
 <!--
 **tracynlcode/tracynlcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
